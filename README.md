@@ -6,7 +6,7 @@ Originally extracted from a game engine I wrote, I found these timers extremely 
 
 A `Timer` is a simple JavaScript timeout with some added functionality. As long as the timer instance exists, it can be restarted and perform the action again. You can also change the interval when the timer is not running.
 
-_This version is written to be compatible with ES5 and earlier. For the version compatible with ES6 and later, try:_ https://npmjs.org/packages/timersjs
+_This version is written to be compatible with ES5 and earlier. For the version compatible with ES6 and later, try:_ https://npmjs.org/package/@bfattori/neotimer
 
 ```javascript
 // Create the timer instance
