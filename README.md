@@ -39,7 +39,7 @@ npm install @bfattori/neotimer-compat
 
 ### Node
 ```javascript
-const TimerJS = require('timerjs');
+const NeoTimer = require('neotimer');
 ```
 
 A simple timer:
