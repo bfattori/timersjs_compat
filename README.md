@@ -1,4 +1,4 @@
-# timersjs
+# neotimer-compat
 
 A tiny JavaScript timer library
 
